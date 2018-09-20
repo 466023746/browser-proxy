@@ -1,6 +1,6 @@
 {
-  "name": "browser-proxy",
-  "version": "1.0.0",
+  "name": "set-browser-proxy",
+  "version": "1.0.3",
   "description": "auto set browser proxy",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,13 @@
     "proxy"
   ],
   "author": "challenget",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/466023746/browser-proxy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/466023746/browser-proxy/issues"
+  },
+  "homepage": "https://github.com/466023746/browser-proxy#readme"
 }
