@@ -1,6 +1,6 @@
 {
   "name": "set-browser-proxy",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "auto set browser proxy",
   "main": "index.js",
   "scripts": {
